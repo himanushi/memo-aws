@@ -10,6 +10,11 @@
   * S3 にログを取る。CloudTrail自体の料金は無料。
   * https://www.udemy.com/course/aws-and-infra/learn/lecture/14874404
 
+## 手順
+* VPC、サブネットを作成する
+* インターネットゲートウェイを作成、VPCをアタッチする
+* ルートテーブルを作成する
+
 ## サービス
 * VPC
   * 仮想ネットワーク構築
