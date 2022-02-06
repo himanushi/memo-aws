@@ -22,6 +22,7 @@
   * `chmod 600 aws-ssh.pem`
 * ssh で EC2 インスタンスにログイン
   * `ssh -i aws-ssh.pem ec2-user@<EC2 のパブリック IPv4 アドレス>`
+  * 
 
 ## サービス
 * VPC
