@@ -24,6 +24,7 @@
   * `ssh -i aws-ssh.pem ec2-user@<EC2 のパブリック IPv4 アドレス>`
 * インバウンドルールで HTTPS を追加
 * Elastic IP で IP 固定
+* Route 53 でドメイン設定
 
 ## EC2環境構築
 * `sudo yum update -y`
