@@ -25,6 +25,9 @@
 * インバウンドルールで HTTPS を追加
 * Elastic IP で IP 固定
 * Route 53 でドメイン設定
+* RDS 用のサブネットを作成
+* RDS 用のセキュリティグループを作成
+  * インバウンドルールに MYSQL/Aurora を設定して、ソースに app のセキュリティグループを設定
 
 ## EC2環境構築
 * `sudo yum update -y`
