@@ -11,9 +11,14 @@
   * https://www.udemy.com/course/aws-and-infra/learn/lecture/14874404
 
 ## 手順
-* VPC、サブネットを作成する
+* VPCを作成
+  * https://www.udemy.com/course/aws-and-infra/learn/lecture/15046674#notes
+* サブネットを作成する
+  * https://www.udemy.com/course/aws-and-infra/learn/lecture/15046678#notes
 * インターネットゲートウェイを作成、VPCをアタッチする
+  * https://www.udemy.com/course/aws-and-infra/learn/lecture/15046680#notes
 * ルートテーブルを VPC を紐づけて作成する
+  * https://www.udemy.com/course/aws-and-infra/learn/lecture/15046680#notes
 * ルートテーブルのサブネットの関連付けタブでパブリックサブネットを関連付ける
 * ルートテーブルのルートタブでインターネットゲートウェイを関連付ける
 * EC2インスタンスを VPC と紐づけて作成する
