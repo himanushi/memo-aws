@@ -28,6 +28,7 @@
 * ssh で EC2 インスタンスにログイン
   * `ssh -i aws-ssh.pem ec2-user@<EC2 のパブリック IPv4 アドレス>`
 * インバウンドルールで HTTPS を追加
+* この時点でパブリックIPで web 表示してみる。表示できない場合は上記のいずれかが間違っている。
 * Elastic IP で IP 固定
 * Route 53 でドメイン設定
 
