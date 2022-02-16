@@ -1,5 +1,8 @@
 # memo-aws
 
+# アーキテクチャ図
+<img width="742" alt="スクリーンショット 2022-02-16 23 25 28" src="https://user-images.githubusercontent.com/27812830/154284766-fe81abd7-3d2d-471a-b582-7ffab87cce59.png">
+
 ## 初期にやった方がいいこと
 * 請求アラートの設定
   * https://www.udemy.com/course/aws-and-infra/learn/lecture/14874400
