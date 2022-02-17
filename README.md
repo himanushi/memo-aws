@@ -12,6 +12,8 @@
 * CloudTrail で操作ログを取る
   * S3 にログを取る。CloudTrail自体の料金は無料。
   * https://www.udemy.com/course/aws-and-infra/learn/lecture/14874404
+  * 注意: CloudTrail で S3 を使用すると即無料枠がなくなるほどAPIを実行する 
+    * 参考: [AWSを使い始めて2日目に無料枠限度アラームがきた話](https://qiita.com/Ki2neudon/items/aefaa9edb435b4945c3a)
 
 ## 手順
 * VPCを作成
