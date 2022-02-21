@@ -47,7 +47,6 @@
 
 ## EC2環境構築
 * `sudo yum update -y`
-* 
 
 ## サービス
 * VPC
